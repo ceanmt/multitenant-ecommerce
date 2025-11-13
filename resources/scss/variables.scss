@@ -1,0 +1,15 @@
+// resources/scss/_variables.scss
+$themes: (
+  default: (
+    primary: #007bff,
+    secondary: #6c757d,
+    background: #f8f9fa,
+    text: #212529
+  ),
+  dark: (
+    primary: #0d6efd,
+    secondary: #6c757d,
+    background: #1a1a1a,
+    text: #ffffff
+  )
+);
